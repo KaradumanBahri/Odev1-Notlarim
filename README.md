@@ -1,6 +1,6 @@
 # dice_application
 
-A new Flutter project.
+Google Oyun ve Uygulama Akademisi eğitimi- Ödev1
 
 ## Getting Started
 
